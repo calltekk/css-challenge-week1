@@ -22,4 +22,4 @@ This challenge uses the MIT license.
 
 ## Notes
 
-This code's source was given as starter code from the edx bootcamp instructors. We were tasked with refactoring it to make th HTML cleaner with semantics and ig alt attributes and editing the CSS accordingly to follow these rules. I - changed the colour from blue to green also to make it stand out more.
+This code's source was given as starter code from the edx bootcamp instructors. We were tasked with refactoring it to make th HTML cleaner with semantics and ig alt attributes and editing the CSS accordingly to follow these rules. I - changed the colour from blue to green also to make it stand out more. Also, this site is copyright of Horiseon Social Solution Services, Inc.
