@@ -19,3 +19,7 @@ There is no installation. Just run the live page and it should take you to my we
 ## License
 
 This challenge uses the MIT license.
+
+## Notes
+
+This code's source was given as starter code from the edx bootcamp instructors. We were tasked with refactoring it to make th HTML cleaner with semantics and ig alt attributes and editing the CSS accordingly to follow these rules. I - changed the colour from blue to green also to make it stand out more.
